@@ -1,0 +1,38 @@
+.players{
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid gray;
+    padding : 20px;
+    box-shadow: 1px 1px 20px 10px #a3a1a1;
+}
+
+.players, label, input{
+    font-weight: bold;
+
+}
+#start{
+    margin-top : 20px;
+    width: 20%;
+}
+.display{
+    display: block;
+}
+.timer-block{
+    position: relative ;
+    left: 30%;
+    top: -340px;
+    width: 15%;
+    
+}
+.timer-block h1{
+    border: 2px solid black;
+    font-size: 1.5em;
+    text-align: center;
+    box-shadow: 1px 1px 20px 10px #a3a1a1;
+}
+.timer-block h1 p{
+    font-size: 0.8em;
+    /* background-color: yellow; */
+    box-shadow: 1px 1px 30px 10px #c6d8a1;
+}

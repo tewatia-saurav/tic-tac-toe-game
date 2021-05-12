@@ -1,0 +1,20 @@
+
+.title{
+    margin-top:20px;
+    font-size: 50px;
+    text-decoration: underline 3px;
+    padding : 20px;
+    margin:-20px;
+}
+.center{
+    width : 50%,;
+    text-align : center;
+}
+.dark {
+    color: white;
+    background-color: black;
+}
+.ocean{
+    color:rgb(4, 69, 112);
+    background-color:skyblue
+}
